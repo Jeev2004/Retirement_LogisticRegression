@@ -1,2 +1,2 @@
---> Importing pandas , Train Test Split and Logistic regression <\br>
---> Loading dataset <\br>
+--> Importing pandas , Train Test Split and Logistic regression <br />
+--> Loading dataset <br />
